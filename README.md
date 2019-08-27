@@ -1,6 +1,7 @@
 # workshop-transcom
 
 Chef Automate IP:  54.191.210.157
+
 Chef Automate URL:  https://TRANSCOM-workshop.eng.chefdemo.net
 
 | Name             | Card# | IP Address     | 
